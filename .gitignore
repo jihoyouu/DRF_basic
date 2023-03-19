@@ -1,2 +1,5 @@
 photo/
-__pycache__/
+myweb/__pycache__/
+photo_app/__pycache__/
+photo_app/migrations/__pycache__/
+db.sqlite3
